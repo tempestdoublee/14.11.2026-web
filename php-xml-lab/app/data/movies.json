@@ -1,0 +1,613 @@
+[
+  {
+    "id": 154054,
+    "type": "movie",
+    "title_russian": "Джой",
+    "title_original": "Joy",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/4/5/154054/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/4/5/154054/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/4/5/154054/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/154054/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "биография",
+      "драма",
+      "комедия"
+    ]
+  },
+  {
+    "id": 159513,
+    "type": "movie",
+    "title_russian": "Лазурный берег",
+    "title_original": "By the Sea",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/3/1/159513/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/3/1/159513/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/3/1/159513/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/159513/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "драма",
+      "мелодрама"
+    ]
+  },
+  {
+    "id": 157449,
+    "type": "movie",
+    "title_russian": "Сотрясение",
+    "title_original": "Concussion",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/9/4/157449/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/9/4/157449/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/9/4/157449/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/157449/",
+    "country": [
+      "Австралия",
+      "Великобритания",
+      "США"
+    ],
+    "genre": [
+      "драма",
+      "спорт"
+    ]
+  },
+  {
+    "id": 159067,
+    "type": "movie",
+    "title_russian": "Кукла",
+    "title_original": "The Boy",
+    "year": 2015,
+    "runtime": 105,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/7/6/159067/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/7/6/159067/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/7/6/159067/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/159067/",
+    "imdb": {
+      "rating": 5.7,
+      "votes": 978
+    },
+    "kinopoisk": {
+      "rating": 5.938,
+      "votes": 229
+    },
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "драма",
+      "триллер",
+      "ужасы"
+    ]
+  },
+  {
+    "id": 159198,
+    "type": "movie",
+    "title_russian": "И грянул шторм",
+    "title_original": "The Finest Hours",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/8/9/159198/0_1.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/8/9/159198/0_1.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/8/9/159198/0_1.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/159198/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "биография",
+      "драма",
+      "история",
+      "приключения",
+      "триллер"
+    ]
+  },
+  {
+    "id": 159272,
+    "type": "movie",
+    "title_russian": "Дочь Бога",
+    "title_original": "Daughter of God",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/2/7/159272/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/2/7/159272/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/2/7/159272/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/159272/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "драма"
+    ]
+  },
+  {
+    "id": 159788,
+    "type": "movie",
+    "title_russian": "Девушка из Дании",
+    "title_original": "The Danish Girl",
+    "year": 2015,
+    "runtime": 120,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/8/8/159788/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/8/8/159788/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/8/8/159788/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/159788/",
+    "imdb": {
+      "rating": 5.4,
+      "votes": 1639
+    },
+    "country": [
+      "Великобритания",
+      "Германия",
+      "США"
+    ],
+    "genre": [
+      "биография",
+      "драма"
+    ]
+  },
+  {
+    "id": 155290,
+    "type": "movie",
+    "title_russian": "Выживший",
+    "title_original": "The Revenant",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/0/9/155290/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/0/9/155290/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/0/9/155290/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/155290/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "вестерн",
+      "драма",
+      "приключения"
+    ]
+  },
+  {
+    "id": 153610,
+    "type": "movie",
+    "title_russian": "Сестры",
+    "title_original": "Sisters",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/0/1/153610/0_1.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/0/1/153610/0_1.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/0/1/153610/0_1.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/153610/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "комедия"
+    ]
+  },
+  {
+    "id": 157775,
+    "type": "movie",
+    "title_russian": "Крид",
+    "title_original": "Creed",
+    "year": 2015,
+    "runtime": 95,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/5/7/157775/0_qHqshz3.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/5/7/157775/0_qHqshz3.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/5/7/157775/0_qHqshz3.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/157775/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "драма",
+      "спорт"
+    ]
+  },
+  {
+    "id": 137475,
+    "type": "movie",
+    "title_russian": "Элвин и бурундуки 4",
+    "title_original": "Alvin and the Chipmunks: The Road Chip",
+    "year": 2015,
+    "runtime": 86,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/5/7/137475/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/5/7/137475/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/5/7/137475/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/137475/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "комедия",
+      "музыка",
+      "мультфильм",
+      "приключения",
+      "семейный",
+      "фэнтези"
+    ]
+  },
+  {
+    "id": 157771,
+    "type": "movie",
+    "title_russian": "Стив Джобс",
+    "title_original": "Steve Jobs",
+    "year": 2015,
+    "runtime": 122,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/1/7/157771/0_RfDTyDZ.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/1/7/157771/0_RfDTyDZ.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/1/7/157771/0_RfDTyDZ.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/157771/",
+    "imdb": {
+      "rating": 6.4,
+      "votes": 1087
+    },
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "биография",
+      "драма"
+    ]
+  },
+  {
+    "id": 157773,
+    "type": "movie",
+    "title_russian": "Крампус",
+    "title_original": "Krampus",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/3/7/157773/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/3/7/157773/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/3/7/157773/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/157773/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "комедия",
+      "ужасы",
+      "фэнтези"
+    ]
+  },
+  {
+    "id": 155006,
+    "type": "movie",
+    "title_russian": "На гребне волны",
+    "title_original": "Point Break",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/6/0/155006/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/6/0/155006/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/6/0/155006/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/155006/",
+    "country": [
+      "Германия",
+      "Китай",
+      "США"
+    ],
+    "genre": [
+      "боевик",
+      "криминал",
+      "триллер"
+    ]
+  },
+  {
+    "id": 159885,
+    "type": "movie",
+    "title_russian": "Декиру: Магические камни",
+    "title_original": "Dekiru: The Three Stones",
+    "year": 2015,
+    "runtime": 83,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/5/8/159885/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/5/8/159885/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/5/8/159885/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/159885/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "боевик",
+      "комедия",
+      "приключения",
+      "фантастика",
+      "фэнтези"
+    ]
+  },
+  {
+    "id": 153535,
+    "type": "movie",
+    "title_russian": "Зачинщики",
+    "title_original": "Masterminds",
+    "year": 2015,
+    "runtime": 94,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/5/3/153535/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/5/3/153535/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/5/3/153535/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/153535/",
+    "kinopoisk": {
+      "rating": 5.75,
+      "votes": 8
+    },
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "боевик",
+      "комедия",
+      "криминал"
+    ]
+  },
+  {
+    "id": 159062,
+    "type": "movie",
+    "title_russian": "Любите Куперов",
+    "title_original": "Love the Coopers",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/2/6/159062/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/2/6/159062/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/2/6/159062/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/159062/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "комедия"
+    ]
+  },
+  {
+    "id": 120786,
+    "type": "movie",
+    "title_russian": "Звёздные войны: Пробуждение силы",
+    "title_original": "Star Wars: Episode VII - The Force Awakens",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/6/8/120786/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/6/8/120786/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/6/8/120786/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/120786/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "боевик",
+      "приключения",
+      "фантастика",
+      "фэнтези"
+    ]
+  },
+  {
+    "id": 156737,
+    "type": "movie",
+    "title_russian": "Рождество",
+    "title_original": "X-Mas",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/7/3/156737/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/7/3/156737/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/7/3/156737/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/156737/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "комедия"
+    ]
+  },
+  {
+    "id": 157762,
+    "type": "movie",
+    "title_russian": "Утешение",
+    "title_original": "Solace",
+    "year": 2015,
+    "runtime": 101,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/2/6/157762/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/2/6/157762/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/2/6/157762/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/157762/",
+    "imdb": {
+      "rating": 6.4,
+      "votes": 1338
+    },
+    "kinopoisk": {
+      "rating": 7.263,
+      "votes": 28
+    },
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "детектив",
+      "триллер"
+    ]
+  },
+  {
+    "id": 154996,
+    "type": "movie",
+    "title_russian": "В сердце моря",
+    "title_original": "In the Heart of the Sea",
+    "year": 2015,
+    "runtime": 121,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/6/9/154996/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/6/9/154996/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/6/9/154996/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/154996/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "боевик",
+      "драма",
+      "история",
+      "приключения"
+    ]
+  },
+  {
+    "id": 155010,
+    "type": "movie",
+    "title_russian": "Шпионский мост",
+    "title_original": "Bridge of Spies",
+    "year": 2015,
+    "runtime": 141,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/0/1/155010/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/0/1/155010/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/0/1/155010/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/155010/",
+    "imdb": {
+      "rating": 8.3,
+      "votes": 3392
+    },
+    "kinopoisk": {
+      "rating": 8.375,
+      "votes": 41
+    },
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "биография",
+      "драма",
+      "история",
+      "триллер"
+    ]
+  },
+  {
+    "id": 155284,
+    "type": "movie",
+    "title_russian": "Ужастики",
+    "title_original": "Goosebumps",
+    "year": 2015,
+    "runtime": 103,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/4/8/155284/0_VvqPtmT.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/4/8/155284/0_VvqPtmT.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/4/8/155284/0_VvqPtmT.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/155284/",
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1230
+    },
+    "kinopoisk": {
+      "rating": 6.0,
+      "votes": 7
+    },
+    "country": [
+      "Австралия",
+      "США"
+    ],
+    "genre": [
+      "боевик",
+      "комедия",
+      "приключения",
+      "ужасы",
+      "фэнтези"
+    ]
+  },
+  {
+    "id": 137474,
+    "type": "movie",
+    "title_russian": "Хороший динозавр",
+    "title_original": "The Good Dinosaur",
+    "year": 2015,
+    "runtime": 0,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/4/7/137474/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/4/7/137474/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/4/7/137474/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/137474/",
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "комедия",
+      "мультфильм",
+      "приключения",
+      "семейный",
+      "фэнтези"
+    ]
+  },
+  {
+    "id": 158621,
+    "type": "movie",
+    "title_russian": "Наёмница",
+    "title_original": "Sicario",
+    "year": 2015,
+    "runtime": 121,
+    "poster": {
+      "small": "http://c.cinemate.cc/media/m/1/2/158621/0.small.jpg",
+      "medium": "http://c.cinemate.cc/media/m/1/2/158621/0.medium.jpg",
+      "big": "http://c.cinemate.cc/media/m/1/2/158621/0.big.jpg"
+    },
+    "url": "http://cinemate.cc/movie/158621/",
+    "imdb": {
+      "rating": 8.0,
+      "votes": 8207
+    },
+    "kinopoisk": {
+      "rating": 7.516,
+      "votes": 92
+    },
+    "country": [
+      "США"
+    ],
+    "genre": [
+      "боевик",
+      "детектив",
+      "драма",
+      "криминал",
+      "триллер"
+    ]
+  }
+]

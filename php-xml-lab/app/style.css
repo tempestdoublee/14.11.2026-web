@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 32px 16px;
+    background: #f2f5fa;
+    color: #17243a;
+    font: 1rem/1.55 system-ui, sans-serif;
+}
+
+main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: clamp(16px, 4vw, 28px);
+    background: white;
+    border: 1px solid #d8e2f2;
+    border-radius: 12px;
+}
+
+h1 {
+    margin: 0 0 8px;
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    line-height: 1.2;
+}
+
+p {
+    margin: 0 0 16px;
+    color: #465574;
+}
+
+ol {
+    margin: 0;
+    padding-left: 32px;
+}
+
+li {
+    padding: 8px 0;
+    border-bottom: 1px solid #e4e9f2;
+}
+
+li:last-child {
+    border-bottom: 0;
+}
